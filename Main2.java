@@ -28,7 +28,7 @@ public class Main2 {
 		
 		System.out.println("sum : "+sum);
 		System.out.printf("avg : %.1f", avg);
-		
+		System.out.println();
 		
 		
 	}
