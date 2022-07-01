@@ -21,3 +21,4 @@ class MemberInfo {
 	public String gender() {return gender;}
 	public String pnumber() {return pnumber;}
 }
+
