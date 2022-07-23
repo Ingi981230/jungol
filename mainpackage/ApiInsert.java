@@ -23,7 +23,7 @@ public class ApiInsert {
 			StringBuffer pharm_url = new StringBuffer();
 			pharm_url.append("http://apis.data.go.kr/1613000/ExpBusInfoService/getStrtpntAlocFndExpbusInfo");
 			pharm_url.append(
-					"?serviceKey=c6Pq%2F5ys7G3CEHptRvGp5IdyZ3sqigWa34YzkFpogmqeKbyK3JEkAkC7lQLOzYN5wjYcnZARm09A7biz1RErhQ%3D%3D&pageNo=1&numOfRows=10&_type=xml&depTerminalId=NAEK100&arrTerminalId=NAEK703&depPlandTime=20220720");
+					"?serviceKey=서비스키를 입력하세요");
 
 			URL url = new URL(pharm_url.toString());
 
